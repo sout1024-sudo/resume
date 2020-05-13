@@ -1,9 +1,9 @@
 const config = {
     profile: {
-        githubAccountId: "sout1024-sudo",
+        githubAccountId: "Songseunghyo1",
         profileImg: "https://avatars0.githubusercontent.com/u/15643765?s=460&v=4",
         email: "tmdgy15@gmail.com",
-        description: "자바 백앤드 개발자를 꿈꾸는 주니어 개발자입니다.",
+        description: "자바 백엔드 개발자를 꿈꾸는 주니어 개발자입니다.",
         github: "https://github.com/Songseunghyo1",
     },
     skills: [
