@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.1",
   "private": true,
-  "homepage": "https://aerain.github.io/resume",
+  "homepage": "https://sout1024-sudo.github.io/resume",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "prop-types": "^15.7.2",
